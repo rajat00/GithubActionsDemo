@@ -48,20 +48,27 @@ const App = () => {
               src="https://uploads-ssl.webflow.com/5fd33d12654aaaf1a7c75db2/625eede123049516ff613737_N27-logo.svg"
               alt="north27"
             />
-            <p className="go-down">
-              I am Rishabh Shukla, a seasoned Full Stack Web Developer with over 5 years of
-              hands-on experience in crafting robust web applications. My
-              expertise lies in the dynamic world of React, Node.js, MySQL,
-              PostgreSQL, MongoDB, Docker, REST, and GraphQL technologies. I am
-              passionate about delivering high-quality solutions that not only
-              meet but exceed client expectations.
-            </p>
+            <ul class="go-down">
+              <li>
+                I am Rishabh Shukla, a seasoned Full Stack Web Developer with
+                over 5 years of hands-on experience in crafting robust web
+                applications.
+              </li>
+              <li>
+                My expertise lies in the dynamic world of React, Node.js, MySQL,
+                PostgreSQL, MongoDB, Docker, REST, and GraphQL technologies.
+              </li>
+              <li>
+                I am passionate about delivering high-quality solutions that not
+                only meet but exceed client expectations.
+              </li>
+            </ul>
+
             {/* <a href="#">Download CV</a> */}
           </div>
           <div className="clear"></div>
         </div>
       </div>
-      
     </div>
   );
 };
