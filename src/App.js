@@ -40,6 +40,7 @@ const App = () => {
             <img
               src="https://rishabh-demo-1.s3.ap-south-1.amazonaws.com/IMG_20230419_152425_900.jpg"
               alt="Profile"
+              referrerPolicy="origin"
             />
           </div>
           <div className="profil-text">
