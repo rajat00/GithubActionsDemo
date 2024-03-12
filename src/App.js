@@ -47,6 +47,7 @@ const App = () => {
             <img
               src="https://uploads-ssl.webflow.com/5fd33d12654aaaf1a7c75db2/625eede123049516ff613737_N27-logo.svg"
               alt="north27"
+              referrerPolicy="origin"
             />
             <ul class="go-down">
               <li>
